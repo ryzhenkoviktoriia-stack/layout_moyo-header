@@ -1,11 +1,6 @@
 html {
-  font-family: Roboto, sans-serif;
-}
-
-*,
-*::before,
-*::after {
   box-sizing: border-box;
+  font-family: Roboto, Arial, sans-serif;
 }
 
 :root {
@@ -13,6 +8,7 @@ html {
 }
 
 body {
+  box-sizing: border-box;
   margin: 0;
 }
 
